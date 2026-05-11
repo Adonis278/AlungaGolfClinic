@@ -25,7 +25,7 @@ export default function BookSessionPage() {
           </ol>
 
           <h3 className="mt-6 text-lg font-bold">Need Help?</h3>
-          <p className="mt-2 text-sm text-white/85">Email info@alungagolfclinic.org for support with scholarships, scheduling, or special accommodations.</p>
+          <p className="mt-2 text-sm text-white/85">Email alungamichaelgolf@gmail.com for support with scholarships, scheduling, or special accommodations.</p>
         </Reveal>
       </section>
     </div>
