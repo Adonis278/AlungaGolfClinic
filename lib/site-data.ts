@@ -9,8 +9,8 @@ export const navItems = [
 ];
 
 export const impactStats = [
-  { value: "100+", label: "Students Coached" },
-  { value: "20+", label: "Clinics Hosted" },
+  { value: "20+", label: "Students Coached" },
+  { value: "2", label: "Clinics Hosted" },
   { value: "6", label: "Life-Skill Modules" },
   { value: "2", label: "Launch Regions" },
 ];
